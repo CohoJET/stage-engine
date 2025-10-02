@@ -1,0 +1,97 @@
+/* === VARIABLES === */
+:root {
+    --color-bg-root: #1A1611;
+    --color-bg-primary: #2F2721;
+    --color-bg-secondary: #3A332B;
+    --color-bg-tertiary: #4A453D;
+
+    --color-text-primary: #F5F1E8;      /* Headings, important text */
+    --color-text-secondary: #EDE3D3;    /* Body text, author names */
+    --color-text-tertiary: #D6C9B6;     /* Message text */
+    --color-text-muted: #b8ad9c;        /* Timestamps, labels */
+    --color-text-subtle: #9c9488;       /* Subtle text, needs */
+
+    --border-width-main: 1px;
+
+    --margin-width-main: 1px;
+
+    --border-color: #4A453D;
+}
+
+/* === MAIN STRUCTURE === */
+#root {
+    width: 100%;
+    height: 100%;
+    flex-grow: 1;
+    flex-direction: column;
+    background-color: var(--color-bg-root);
+}
+
+#body {
+    width: 100%;
+    height: 100%;
+    flex-grow: 1;
+    flex-direction: row;
+    margin-top: var(--margin-width-main);
+}
+
+#left-panel {
+    width: 25%;
+    height: 100%;
+    background-color: var(--color-bg-secondary);
+    border-right-width: var(--border-width-main);
+    border-color: var(--border-color);
+    margin-right: var(--margin-width-main);
+}
+
+#central-panel {
+    flex: 1;
+    height: 100%;
+    background-color: var(--color-bg-primary);
+}
+
+#right-panel {
+    width: 25%;
+    height: 100%;
+    background-color: var(--color-bg-primary);
+    border-left-width: var(--border-width-main);
+    border-color: var(--border-color);
+    margin-left: var(--margin-width-main);
+}
+
+/* === LEFT PANEL === */
+.left-widget-container {
+
+}
+
+.left-widget-header {
+    margin: 0px;
+    padding: 16px 20px;
+    background-color: var(--color-bg-secondary);
+    border-bottom-width: var(--border-width-main);
+    border-color: var(--border-color);
+    font-size: 13px;
+    -unity-font-style: bold;
+    color: #b8a890;
+    letter-spacing: 0.5px;
+}
+
+/* === CENTRAL PANEL === */
+.central-widget-container {
+    flex-grow: 1;
+    padding: 16px;
+}
+
+/* === RIGHT PANEL === */
+.right-widget-container {
+    padding: 16px;
+    border-bottom-width: var(--border-width-main);
+    border-color: var(--border-color);
+}
+
+.right-widget-header {
+    margin: 0px;
+    font-size: 12px;
+    color: #b8a890;
+    letter-spacing: 0.5px;
+}

@@ -1,0 +1,37 @@
+FiascoPlayerCardElement {
+    background-color: var(--color-bg-primary);
+    border-width: var(--border-width-main);
+    border-color: var(--border-color);
+    border-left-width: 3px;
+    border-left-color: #FF0000;
+    border-radius: 8px;
+    padding: 16px;
+    margin-bottom: 12px;
+}
+
+.player-name {
+    font-size: 14px;
+    -unity-font-style: bold;
+    color: #f5f1e8;
+    margin-bottom: 4px;
+}
+
+.player-description {
+    font-size: 11px;
+    color: #b8ad9c;
+    white-space: normal;
+    margin-bottom: 8px;
+}
+
+.relationship-card {
+    font-size: 10px;
+    color: #9c9488;
+    background-color: #1a1611;
+    padding: 4px 8px;
+    border-radius: 4px;
+}
+
+.relationship-target {
+    font-size: 10px;
+    color: var(--color-text-tertiary);
+}

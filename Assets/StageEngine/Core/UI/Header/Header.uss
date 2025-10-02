@@ -1,0 +1,31 @@
+#header-container {
+    background-color: var(--color-bg-secondary);
+    border-bottom-width: var(--border-width-main);
+    border-color: var(--border-color);
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center; 
+    height: 60px;
+}
+
+#title-container {
+    flex-direction: row;
+    padding-left: 24px;
+}
+
+#game-title {
+    font-size: 18px;
+    -unity-font-style: bold;
+    color: var(--color-text-primary);
+}
+
+#stage-title {
+    font-size: 12px;
+    color: var(--color-text-secondary);
+    letter-spacing: 1px;
+    -unity-text-align: middle-center;
+    background-color: var(--border-color);
+    border-radius: 12px;
+    padding: 4px 12px;
+    margin-left: 12px;
+}

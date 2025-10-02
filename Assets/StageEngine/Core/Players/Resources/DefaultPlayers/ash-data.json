@@ -1,0 +1,10 @@
+{
+    "Id": "ash",
+    "Name": "Ash",
+    "ColorHex": "#3B82F6",
+    "Introduction": "Eye-rolling mechanisms calibrated for maximum efficiency",
+    "ModelProvider": "Anthropic",
+    "ModelId": "claude-sonnet-4-20250514",
+    "VoiceProvider": "ElevenLabs",
+    "VoiceId": "boyd"
+}

@@ -1,0 +1,29 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:fiasco="StageEngine.Fiasco.UI">
+    <Style src="../../../Core/UI/Core.uss"/>
+    <Style src="DicePool.uss"/>
+    <VisualElement name="dice-pool-container" class="right-widget-container">
+        <fiasco:DicePoolElement>
+            <Label name="dice-pool-panel-header" text="DICE POOL" class="right-widget-header"/>
+            <VisualElement name="dice-rows-container">
+                <VisualElement name="white-dice-row" class="dice-row">
+                    <VisualElement class="dice-container">
+                        <VisualElement class="die white-die">1</VisualElement>
+                        <VisualElement class="die white-die">2</VisualElement>
+                        <VisualElement class="die white-die">3</VisualElement>
+                        <VisualElement class="die white-die">4</VisualElement>
+                        <VisualElement class="die white-die">5</VisualElement>
+                    </VisualElement>
+                </VisualElement>
+                <VisualElement name="black-dice-row" class="dice-row">
+                    <VisualElement class="dice-container">
+                        <VisualElement class="die black-die">1</VisualElement>
+                        <VisualElement class="die black-die">2</VisualElement>
+                        <VisualElement class="die black-die">3</VisualElement>
+                        <VisualElement class="die black-die">4</VisualElement>
+                        <VisualElement class="die black-die">5</VisualElement>
+                    </VisualElement>
+                </VisualElement>
+            </VisualElement>
+        </fiasco:DicePoolElement>
+    </VisualElement>
+</UXML>

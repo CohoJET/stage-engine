@@ -1,0 +1,52 @@
+#dice-rows-container {
+    flex-direction: column;
+    margin-top: var(--spacing-md);
+}
+
+.dice-row {
+    flex-direction: column;
+    background-color: transparent;
+    border-radius: var(--radius-md);
+    padding: var(--spacing-sm);
+    margin-bottom: var(--spacing-md);
+}
+
+.dice-row-label {
+    color: var(--color-text-muted);
+    -unity-text-align: middle-center;
+    font-size: var(--font-size-xs);
+    -unity-font-style: bold;
+    margin-bottom: var(--spacing-xs);
+}
+
+.dice-container {
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.die {
+    width: 32px;
+    height: 32px;
+    border-radius: 4px;
+    border-width: 1px;
+    -unity-text-align: middle-center;
+    font-size: var(--font-size-md);
+    -unity-font-style: bold;
+    margin: 2px;
+}
+
+.white-die {
+    background-color: #F5F1E8;
+    border-width: var(--border-width-main);
+    border-color: #d6c9b6;
+    color: #2f2721;
+}
+
+.black-die {
+    background-color: #1A1611;
+    border-width: var(--border-width-main);
+    border-color: #4a453d;
+    color: #ede3d3;
+}

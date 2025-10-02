@@ -1,0 +1,72 @@
+{
+    "name": "Tilt Table",
+    "categories": [
+      {
+        "name": "Mayhem",
+        "elements": [
+          { "name": "An out of control rampage" },
+          { "name": "A frantic chase" },
+          { "name": "A dangerous animal (perhaps metaphorical) gets loose" },
+          { "name": "Magnificent self-destruction" },
+          { "name": "Cold-blooded score-settling" },
+          { "name": "Misdirected passion" }
+        ]
+      },
+      {
+        "name": "Tragedy",
+        "elements": [
+          { "name": "Death, out of the blue" },
+          { "name": "Somebody's life is changed forever, in a bad way" },
+          { "name": "Pain, followed by confusion" },
+          { "name": "Death, right on time" },
+          { "name": "Confusion, followed by pain" },
+          { "name": "Death, after an unpleasant struggle" }
+        ]
+      },
+      {
+        "name": "Innocence",
+        "elements": [
+          { "name": "Somebody is not so innocent after all" },
+          { "name": "A neighbor wanders into the situation" },
+          { "name": "The wrong guy gets busted" },
+          { "name": "Collateral damage" },
+          { "name": "Love rears its ugly head" },
+          { "name": "A well-meaning stranger intervenes" }
+        ]
+      },
+      {
+        "name": "Guilt",
+        "elements": [
+          { "name": "A visit from the (perhaps unofficial) authorities" },
+          { "name": "Betrayed by friends" },
+          { "name": "Somebody develops a conscience" },
+          { "name": "Greed leads to killing" },
+          { "name": "Someone panics" },
+          { "name": "A showdown" }
+        ]
+      },
+      {
+        "name": "Paranoia",
+        "elements": [
+          { "name": "A stranger arrives to settle a score" },
+          { "name": "What seems like dumb luck isn't - things are afoot" },
+          { "name": "Two people cross paths and everything changes" },
+          { "name": "A sudden reversal (of status, of fortune, of sympathy)" },
+          { "name": "The thing you stole has been stolen" },
+          { "name": "Somebody is watching, waiting for their moment" }
+        ]
+      },
+      {
+        "name": "Failure",
+        "elements": [
+          { "name": "A stupid plan, executed to perfection" },
+          { "name": "Something precious is on fire" },
+          { "name": "A tiny mistake leads to ruin" },
+          { "name": "A good plan comes unraveled" },
+          { "name": "You thought it was taken care of but it wasn't" },
+          { "name": "Fear leads to a fateful decision" }
+        ]
+      }
+    ]
+  }
+  

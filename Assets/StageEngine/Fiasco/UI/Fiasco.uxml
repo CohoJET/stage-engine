@@ -1,0 +1,28 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:sec="StageEngine.Core.UI" editor-extension-mode="False">
+    <Style src="project://database/Assets/StageEngine/Core/UI/Core.uss" />
+    <Template src="../../Core/UI/Header/HeaderTemplate.uxml" name="HeaderTemplate" />
+    <Template src="../../Core/UI/ConversationsPanel/ConversationsPanelTemplate.uxml" name="ConversationsPanelTemplate" />
+    <Template src="../../Core/UI/PlayersPanel/PlayersPanelTemplate.uxml" name="PlayersPanelTemplate" />
+    <Template src="SettingPanel/SettingPanelTemplate.uxml" name="SettingPanelTemplate" />
+    <Template src="DicePool/DicePoolTemplate.uxml" name="DicePoolTemplate" />
+    <VisualElement name="root">
+        <!-- Header -->
+        <Instance name="header" template="HeaderTemplate"/>
+        <!-- Body -->
+        <VisualElement name="body">
+            <!-- Left Panel -->
+            <VisualElement name="left-panel">
+                <Instance name="players-panel" template="PlayersPanelTemplate"/>
+            </VisualElement>
+            <!-- Central Panel -->
+            <VisualElement name="central-panel">
+                <Instance name="conversations-panel" template="ConversationsPanelTemplate" style="flex-grow: 1"/>
+            </VisualElement>
+            <!-- Right Panel -->
+            <VisualElement name="right-panel">
+                <Instance name="setting-panel" template="SettingPanelTemplate"/>
+                <Instance name="dice-pool" template="DicePoolTemplate"/>
+            </VisualElement>
+        </VisualElement>
+    </VisualElement>
+</UXML>

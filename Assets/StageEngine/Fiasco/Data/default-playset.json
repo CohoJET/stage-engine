@@ -1,0 +1,360 @@
+{
+  "Setting": "A Nice Southern Town",
+  "Description": "When desperation meets opportunity in a place where reputations are everything, good intentions have a way of going spectacularly wrong. Whether you're trying to escape your past, settle an old score, or make enough money to get out of town, remember: in a small Southern town, secrets don't stay buried forever.",
+  "Introduction": "Welcome to a place where everybody knows your name, your business, and exactly how much trouble you're worth.",
+  "TableA": {
+    "Name": "Relationships",
+    "Categories": [
+      {
+        "Name": "Family",
+        "Elements": [
+          { "Name": "Parent-In-law / son or daughter-in-law" },
+          { "Name": "Cousins, or aunt/uncle and niece/nephew" },
+          { "Name": "Siblings" },
+          { "Name": "Parent / child or stepchild" },
+          { "Name": "Grandparent / grandchild" },
+          { "Name": "Distant / unusual / unofficial relatives" }
+        ]
+      },
+      {
+        "Name": "Work",
+        "Elements": [
+          { "Name": "Former co-workers" },
+          { "Name": "Current co-workers" },
+          { "Name": "Supervisor / employee" },
+          { "Name": "Tradesman (mechanic, plumber, decorator, landscaper) & client" },
+          { "Name": "Salesman / customer" },
+          { "Name": "Professional (pastor, doctor, lawyer, dentist, drug dealer) & client" }
+        ]
+      },
+      {
+        "Name": "Friendship",
+        "Elements": [
+          { "Name": "Manipulator / victim" },
+          { "Name": "Old buddies" },
+          { "Name": "Drug friends" },
+          { "Name": "Friendly rivals" },
+          { "Name": "Friends with benefits" },
+          { "Name": "Bitter social adversaries (church friends)" }
+        ]
+      },
+      {
+        "Name": "Romance",
+        "Elements": [
+          { "Name": "Former spouses" },
+          { "Name": "Current spouses" },
+          { "Name": "Life-long crush / object of crush" },
+          { "Name": "One-time fling" },
+          { "Name": "Lovers" },
+          { "Name": "Former lovers" }
+        ]
+      },
+      {
+        "Name": "Crime",
+        "Elements": [
+          { "Name": "Corrupt official / local big shot" },
+          { "Name": "Gambler / bookie" },
+          { "Name": "Thieves (shoplifters, burglars, car thieves)" },
+          { "Name": "Con man / mark" },
+          { "Name": "Hoodlums (racketeers, knuckleheads, delinquents)" },
+          { "Name": "Drug people (dealers, manufacturers, distributors)" }
+        ]
+      },
+      {
+        "Name": "Community",
+        "Elements": [
+          { "Name": "Elected officials (Aldermen, mayor, commissioner)" },
+          { "Name": "Civic volunteers (election officials, chamber, clubs)" },
+          { "Name": "Church volunteers (deacons, Sunday school teacher)" },
+          { "Name": "Rec league, minor league, pick-up team sports" },
+          { "Name": "Case worker, parole officer, guardian ad litem / client" },
+          { "Name": "AA/Narcanon sponsor / participant" }
+        ]
+      }
+    ]
+  },
+  "TableB": {
+    "Name": "Needs",
+    "Categories": [
+      {
+        "Name": "To get out",
+        "Elements": [
+          { "Name": "...of this town, before they realize you took it" },
+          { "Name": "...of this town, to escape family" },
+          { "Name": "...of the gang" },
+          { "Name": "...of a relationship with a lover" },
+          { "Name": "...of the obligation to a frail relative in your care" },
+          { "Name": "...of a crushing debt coming due" }
+        ]
+      },
+      {
+        "Name": "To get even",
+        "Elements": [
+          { "Name": "...with the bad people, who think they are so tough" },
+          { "Name": "...with this town, for what it has turned you into" },
+          { "Name": "...with a police officer" },
+          { "Name": "...with a family member" },
+          { "Name": "...with a co-worker" },
+          { "Name": "...with a rival" }
+        ]
+      },
+      {
+        "Name": "To get rich",
+        "Elements": [
+          { "Name": "...through stealing a drug stash" },
+          { "Name": "...through robbing a business" },
+          { "Name": "...through tricking a handicapped guy" },
+          { "Name": "...through the death of an elderly person" },
+          { "Name": "...through political back-scratching" },
+          { "Name": "...through a misplaced suitcase full of cash" }
+        ]
+      },
+      {
+        "Name": "To get respect",
+        "Elements": [
+          { "Name": "...from this town, by bringing down the machine" },
+          { "Name": "...from this town, by proving your convictions" },
+          { "Name": "...from your lover, by taking the fall" },
+          { "Name": "...from the police, by turning in your own kin" },
+          { "Name": "...from a family member, by rescuing them from ruin" },
+          { "Name": "...from yourself, by finally doing it once and for all" }
+        ]
+      },
+      {
+        "Name": "To get the truth",
+        "Elements": [
+          { "Name": "...about why they are all so shut-mouthed" },
+          { "Name": "...about the Sheriff's political corruption" },
+          { "Name": "...about why he really came here" },
+          { "Name": "...about what she did behind The Patio" },
+          { "Name": "...about your real parents" },
+          { "Name": "...about the mistake that haunts you" }
+        ]
+      },
+      {
+        "Name": "To get laid",
+        "Elements": [
+          { "Name": "...to get it over with" },
+          { "Name": "...by that sweet thing you've been thinking on" },
+          { "Name": "...because you need the raise that badly" },
+          { "Name": "...by an old lover, to start over" },
+          { "Name": "...by an old lover, to further your scheme" },
+          { "Name": "...by your sweetheart, who is acting squirrelly" }
+        ]
+      }
+    ]
+  },
+  "TableC": {
+    "Name": "Locations",
+    "Categories": [
+      {
+        "Name": "Main Street",
+        "Elements": [
+          { "Name": "Peace Haven Church" },
+          { "Name": "El Perro Alto Mexican Restaurant" },
+          { "Name": "Royall's Drug Store: Pharmacy in the back, soda fountain up front" },
+          { "Name": "Shafter and Hazelbrook, LLC, the only lawyers in town" },
+          { "Name": "Commercial Bank, the only bank in town" },
+          { "Name": "Vantage Services, medical claims processor" }
+        ]
+      },
+      {
+        "Name": "Commerce Street",
+        "Elements": [
+          { "Name": "Suds and Duds, coin operated laundromat" },
+          { "Name": "Municipal building, police station, courts and City Hall" },
+          { "Name": "Family Medical Clinic, the only doctor in town" },
+          { "Name": "New Outlook, tanning salon and weight loss center" },
+          { "Name": "The Patio, a movie picture house" },
+          { "Name": "Bill Rivers' Pool Room, for pool and illegal gambling" }
+        ]
+      },
+      {
+        "Name": "Out by the Interstate",
+        "Elements": [
+          { "Name": "Chicken Hut, fast food restaurant" },
+          { "Name": "Davenport's Tire and Tractor, tire shop and tractor repair" },
+          { "Name": "Rose's Village Motel, convenient to the highway" },
+          { "Name": "The Quik-Pik, gas station and convenience store" },
+          { "Name": "Durable Paper Goods, paper bag manufacturing plant" },
+          { "Name": "Accurate Automotive, used cars" }
+        ]
+      },
+      {
+        "Name": "Up Center Road",
+        "Elements": [
+          { "Name": "J&K Gravel: Gravel, stone, and quarried materials" },
+          { "Name": "The old fish house, an abandoned roadhouse" },
+          { "Name": "Center Road Animal Care, large animal veterinarian" },
+          { "Name": "Lyman C. Mills Consolidated High School" },
+          { "Name": "Spiller's, funeral services since 1911" },
+          { "Name": "Charles Green Landscaping, lawn care and excavation" }
+        ]
+      },
+      {
+        "Name": "Out and About",
+        "Elements": [
+          { "Name": "Town parking lot beside the freight tracks" },
+          { "Name": "Red Run State Park" },
+          { "Name": "A farmer's field out past Surry Avenue" },
+          { "Name": "The ball field" },
+          { "Name": "Woods up around Hickory Terrace" },
+          { "Name": "Construction site next to Accurate Automotive" }
+        ]
+      },
+      {
+        "Name": "Residences",
+        "Elements": [
+          { "Name": "Van parked behind Royall's" },
+          { "Name": "Trailer out back of the high school" },
+          { "Name": "Apartment above Suds and Duds" },
+          { "Name": "Farmhouse up Center Road" },
+          { "Name": "Split-level ranch on Surry Avenue" },
+          { "Name": "Mansion out by Hickory Terrace" }
+        ]
+      }
+    ]
+  },
+  "TableD": {
+    "Name": "Objects",
+    "Categories": [
+      {
+        "Name": "Untoward",
+        "Elements": [
+          { "Name": "Porn stash / sex gear" },
+          { "Name": "Welfare check / food stamps" },
+          { "Name": "Garage full of Amway products" },
+          { "Name": "Mink farm" },
+          { "Name": "Klan outfit / hate paraphernalia" },
+          { "Name": "Eviction notice" }
+        ]
+      },
+      {
+        "Name": "Transportation",
+        "Elements": [
+          { "Name": "Golf cart" },
+          { "Name": "New pickup truck" },
+          { "Name": "Panel truck" },
+          { "Name": "Small plane" },
+          { "Name": "Pontoon party boat" },
+          { "Name": "Dirt bike" }
+        ]
+      },
+      {
+        "Name": "Weapon",
+        "Elements": [
+          { "Name": "Shotgun" },
+          { "Name": "Machete" },
+          { "Name": "Poisonous snake" },
+          { "Name": "Handgun" },
+          { "Name": "Pipe bomb" },
+          { "Name": "Firefighter's Halligan tool" }
+        ]
+      },
+      {
+        "Name": "Information",
+        "Elements": [
+          { "Name": "Secret recipe" },
+          { "Name": "An overheard conversation" },
+          { "Name": "Legal records" },
+          { "Name": "Love letter" },
+          { "Name": "List written in a Christmas card" },
+          { "Name": "Photographs" }
+        ]
+      },
+      {
+        "Name": "Valuables",
+        "Elements": [
+          { "Name": "Drug stash" },
+          { "Name": "Mason jar full of gold coins" },
+          { "Name": "Comic book collection" },
+          { "Name": "Vintage car" },
+          { "Name": "Purebred animal" },
+          { "Name": "Suitcase full of cash" }
+        ]
+      },
+      {
+        "Name": "Sentimental",
+        "Elements": [
+          { "Name": "Newborn baby" },
+          { "Name": "War memorabilia" },
+          { "Name": "Roadside accident shrine" },
+          { "Name": "Mathematics trophy" },
+          { "Name": "Wedding ring" },
+          { "Name": "Heirloom silver tea set" }
+        ]
+      }
+    ]
+  },
+  "tiltTable": {
+    "Name": "Tilt Table",
+    "Categories": [
+      {
+        "Name": "Mayhem",
+        "Elements": [
+          { "Name": "An out of control rampage" },
+          { "Name": "A frantic chase" },
+          { "Name": "A dangerous animal (perhaps metaphorical) gets loose" },
+          { "Name": "Magnificent self-destruction" },
+          { "Name": "Cold-blooded score-settling" },
+          { "Name": "Misdirected passion" }
+        ]
+      },
+      {
+        "Name": "Tragedy",
+        "Elements": [
+          { "Name": "Death, out of the blue" },
+          { "Name": "Somebody's life is changed forever, in a bad way" },
+          { "Name": "Pain, followed by confusion" },
+          { "Name": "Death, right on time" },
+          { "Name": "Confusion, followed by pain" },
+          { "Name": "Death, after an unpleasant struggle" }
+        ]
+      },
+      {
+        "Name": "Innocence",
+        "Elements": [
+          { "Name": "Somebody is not so innocent after all" },
+          { "Name": "A neighbor wanders into the situation" },
+          { "Name": "The wrong guy gets busted" },
+          { "Name": "Collateral damage" },
+          { "Name": "Love rears its ugly head" },
+          { "Name": "A well-meaning stranger intervenes" }
+        ]
+      },
+      {
+        "Name": "Guilt",
+        "Elements": [
+          { "Name": "A visit from the (perhaps unofficial) authorities" },
+          { "Name": "Betrayed by friends" },
+          { "Name": "Somebody develops a conscience" },
+          { "Name": "Greed leads to killing" },
+          { "Name": "Someone panics" },
+          { "Name": "A showdown" }
+        ]
+      },
+      {
+        "Name": "Paranoia",
+        "Elements": [
+          { "Name": "A stranger arrives to settle a score" },
+          { "Name": "What seems like dumb luck isn't - things are afoot" },
+          { "Name": "Two people cross paths and everything changes" },
+          { "Name": "A sudden reversal (of status, of fortune, of sympathy)" },
+          { "Name": "The thing you stole has been stolen" },
+          { "Name": "Somebody is watching, waiting for their moment" }
+        ]
+      },
+      {
+        "Name": "Failure",
+        "Elements": [
+          { "Name": "A stupid plan, executed to perfection" },
+          { "Name": "Something precious is on fire" },
+          { "Name": "A tiny mistake leads to ruin" },
+          { "Name": "A good plan comes unraveled" },
+          { "Name": "You thought it was taken care of but it wasn't" },
+          { "Name": "Fear leads to a fateful decision" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "Id": "sage",
+    "Name": "Sage",
+    "ColorHex": "#F59E0B",
+    "Introduction": "Boundary detection software mysteriously corrupted",
+    "ModelProvider": "OpenAI",
+    "ModelId": "gpt-4",
+    "VoiceProvider": "ElevenLabs",
+    "VoiceId": "ana-rita"
+}

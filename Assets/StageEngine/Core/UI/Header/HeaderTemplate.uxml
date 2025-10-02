@@ -1,0 +1,12 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:sec="StageEngine.Core.UI">
+    <Style src="../Core.uss"/>
+    <Style src="Header.uss"/>
+    <VisualElement name="header-container">
+        <sec:GameInfoElement>
+            <VisualElement name="title-container">
+                <Label name="game-title" text="Game Title"/>
+                <Label name="stage-title" text="Act I - Scene II"/>
+            </VisualElement>
+        </sec:GameInfoElement>
+    </VisualElement>
+</UXML>

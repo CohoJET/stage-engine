@@ -1,0 +1,10 @@
+{
+    "Id": "reid",
+    "Name": "Reid",
+    "ColorHex": "#06B6D4",
+    "Introduction": "Loading moral dilemma database... still loading... please wait",
+    "ModelProvider": "OpenAI",
+    "ModelId": "gpt-4",
+    "VoiceProvider": "ElevenLabs",
+    "VoiceId": "adam"
+}

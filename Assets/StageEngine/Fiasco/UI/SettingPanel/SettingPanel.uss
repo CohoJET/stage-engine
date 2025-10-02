@@ -1,0 +1,11 @@
+#setting-header {
+    font-size: 14px;
+    -unity-font-style: bold;
+    color: #f5f1e8;
+}
+#setting-description {
+    font-size: 11px;
+    color: #b8ad9c;
+    -unity-text-align: middle-left;
+    white-space: normal;
+}

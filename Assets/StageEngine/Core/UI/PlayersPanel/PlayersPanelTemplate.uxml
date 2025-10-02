@@ -1,0 +1,11 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:sec="StageEngine.Core.UI">
+    <Style src="../Core.uss"/>
+    <Style src="PlayersPanel.uss"/>
+    <!--<Template src="../../../Fiasco/UI/PlayerCard/PlayerCardTemplate.uxml" name="PlayerCardTemplate" />-->
+    <VisualElement class="left-widget-container">
+        <Label text="DRAMATIS PERSONAE" class="left-widget-header"/>
+        <sec:PlayersListElement content-container="player-cards">
+            <!--<Instance template="PlayerCardTemplate"/>-->
+        </sec:PlayersListElement>
+    </VisualElement>
+</UXML>

@@ -1,0 +1,14 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:sec="StageEngine.Core.UI">
+    <Style src="../Core.uss"/>
+    <Style src="ConversationsPanel.uss"/>
+    <sec:ConversationMessageElement>
+        <VisualElement name="flair" class="conversation-message-flair"/>
+        <VisualElement class="conversation-message-container">
+            <VisualElement class="conversation-message-header">
+                <Label name="sender-label" class="conversation-message-sender" text="Bob"/>
+                <Label name="timestamp-label" class="conversation-message-timestamp" text="15:00:00"/>
+            </VisualElement>
+            <Label name="content-label" class="conversation-message-content" text="Another way? *leans back, chair creaking* Blake, sometimes a man's gotta make hard choices. That silver could set us both up for life. Don't tell me you're going soft on me now."/>
+        </VisualElement>
+    </sec:ConversationMessageElement>
+</UXML>

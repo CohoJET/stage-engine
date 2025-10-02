@@ -1,0 +1,17 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:sec="StageEngine.Core.UI">
+    <Style src="../Core.uss"/>
+    <Style src="ConversationsPanel.uss"/>
+    <Template src="ConversationMessageTemplate.uxml" name="ConversationMessageTemplate" />
+    <VisualElement class="central-widget-container">
+        <sec:SceneInfoElement>
+                <VisualElement class="scene-info-spacer"/>
+                <Label name="scene-info" text="Scene II - A New Dawn"/>
+                <VisualElement class="scene-info-spacer"/>
+        </sec:SceneInfoElement>
+        <sec:ConversationBoxElement>
+            <VisualElement name="conversation-content">
+                <!--<Instance template="ConversationMessageTemplate"/>-->
+            </VisualElement>
+        </sec:ConversationBoxElement>
+    </VisualElement>
+</UXML>

@@ -1,0 +1,6 @@
+/* === PLAYERS LIST === */
+PlayersListElement {
+    flex-grow: 1;
+    padding: 16px;
+    min-height: 300px;
+}

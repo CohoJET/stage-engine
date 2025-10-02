@@ -1,0 +1,12 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:fiasco="StageEngine.Fiasco.UI">
+    <Style src="../../../Core/UI/Core.uss"/>
+    <Style src="SettingPanel.uss"/>
+    <VisualElement name="setting-panel-container" class="right-widget-container">
+        <Label name="setting-panel-header" text="SETTING" class="right-widget-header"/>
+        <fiasco:SettingInfoElement>
+            <Label name="setting-header" text="Setting Header"/>
+            <Label name="setting-description" text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in eros et enim accumsan pulvinar dictum nec elit. Sed tincidunt tincidunt diam, at ultrices neque malesuada eleifend. Integer ornare leo ut erat ullamcorper, ac pulvinar leo laoreet. Donec nibh libero, dignissim et arcu pulvinar, placerat volutpat nunc. Aenean vitae arcu. "/>
+        </fiasco:SettingInfoElement>
+    </VisualElement>
+</UXML>
+

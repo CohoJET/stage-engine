@@ -1,0 +1,11 @@
+<UXML xmlns="UnityEngine.UIElements" xmlns:fiasco="StageEngine.Fiasco.UI">
+    <Style src="../../../Core/UI/Core.uss"/>
+    <Style src="FiascoPlayerCard.uss"/>
+    <fiasco:FiascoPlayerCardElement name="player-card">
+        <Label name="player-name" class="player-name" text="John Doe"/>
+        <Label name="player-description" class="player-description" text="Just your average John from nowhere, longing for a happy life amidst this chaos."/>
+        <Label name="relationship-card-a" class="relationship-card" text="It broke down"/>
+        <Label name="relationship-card-b" class="relationship-card" text="It broke down"/>
+        <Label name="relationship-target" class="relationship-target" text="It broke down"/>
+    </fiasco:FiascoPlayerCardElement>
+</UXML>

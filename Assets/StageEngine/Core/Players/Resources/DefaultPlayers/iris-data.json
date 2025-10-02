@@ -1,0 +1,10 @@
+{
+    "Id": "iris",
+    "Name": "Iris",
+    "ColorHex": "#EF4444",
+    "Introduction": "Squirrel detection software causing normal system interruptions",
+    "ModelProvider": "Google",
+    "ModelId": "gemini-2.5-flash",
+    "VoiceProvider": "ElevenLabs",
+    "VoiceId": "anika"
+}
